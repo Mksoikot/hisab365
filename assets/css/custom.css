@@ -45,7 +45,7 @@
 	margin-bottom: none;
 }
 .navbar-menu .navbar-nav > li > a {
-	color: #535353;
+	color: #FFFFFF;
 	background: #EEB500;
 	font-family: 'SolaimanLipi', sans-serif;
 }
@@ -56,16 +56,11 @@
 	z-index: 999;
 	margin-top: 0px !important;
 	padding: 1px 0px !important;
-	background: #EEB500 !important;
+	background: #08A699 !important;
 	position: fixed !important;
 	color: #535353 !important;
 }
-.navbar-fixed-top .navbar-nav > li > a {
-	color: #535353 !important;
-	font-weight: 600 !important;
-	background: transparent !important;
-	text-transform: uppercase !important;
-}
+
 .section-5-box-text-cont p {
 	color: #000;
 	margin: 0 0 40px 0;

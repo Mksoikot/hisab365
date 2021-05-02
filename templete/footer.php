@@ -39,12 +39,16 @@
         <div class="footer-top-box wow fadeInUp">
           <h4>Contact us</h4>
           <p>
-            <b>Dhaka Office : </b>Housejavascript:void(0) 1/10, Mayer anchal Building, Block-A, Lalmatia Dhaka - 1207 Bangladesh<br/>
-            <b>Comilla Office:</b> Niloy Society, West Bagichagaon, Station Road, Cumilla-3500 Bangladesh<br/>
+            <b style="color:#FFFFFF "><strong>Dhaka Office : </strong></b>House 1/10, Mayer anchal Building, Block-A, Lalmatia Dhaka - 1207 Bangladesh<br/>
+            <b>Mob: </b> +88 01633-036189 <br/>
+            <b>Mob: </b>+88 01633-036190<br/>
+            <b>Mail: </b> support@innovationit.com.bd <br>
+            <hr>
+            <b style="color:#FFFFFF "><strong>Comilla Office:</strong></b> Niloy Society, West Bagichagaon, Station Road, Cumilla-3500 Bangladesh<br/>
             <b>Mob: </b> +880 1714-049013 <br/>
             <b>Mob: </b>+8801714-049026<br/>
             <b>Mob: </b>+880 1310-027292<br/>
-            <b>Mob: </b> +880 1319-081656<br/>
+           <!--  <b>Mob: </b> +880 1319-081656<br/> -->
             <b>Mail: </b> support@innovationit.com.bd </p>
         </div>
         <!-- <div class="footer-top-box wow fadeInUp">
